@@ -1,3 +1,4 @@
+Lecture Notes:
 1. getwd() and setwd(): In R for working with directories
 2. setwd("./data") or setwd("../data") or setwd("/users/haroon...")
 3. file.exists("directoryname"): to check if directory exists
