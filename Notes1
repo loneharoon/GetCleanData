@@ -1,0 +1,7 @@
+1. getwd() and setwd(): In R for working with directories
+2. setwd("./data") or setwd("../data") or setwd("/users/haroon...")
+3. file.exists("directoryname"): to check if directory exists
+4. dir.create("directoryname")
+5. download.file(): function to download files from internet; has three parametrs i.e., url,destinationfile, method.
+if url stands with htttps use "curl" as method name on mac
+6. date() function is used to provide the data and time of download to the file
