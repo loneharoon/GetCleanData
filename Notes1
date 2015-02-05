@@ -4,5 +4,10 @@ Lecture Notes:
 3. file.exists("directoryname"): to check if directory exists
 4. dir.create("directoryname")
 5. download.file(): function to download files from internet; has three parametrs i.e., url,destinationfile, method.
-if url stands with htttps use "curl" as method name on mac
+if url stands with https use "curl" as method name on mac
 6. date() function is used to provide the data and time of download to the file
+........................................
+ Reading files: 
+ 1. read.table() function is used to read files
+ 2. read.csv() and read.csv2() also used
+ 3. For excel files we use: read.xlsx(),read.slsx2() 
