@@ -8,6 +8,7 @@ if url stands with https use "curl" as method name on mac
 6. date() function is used to provide the data and time of download to the file
 ........................................
  Reading files: 
- 1. read.table() function is used to read files
+ 1. read.table() function is used to read files, parameters passed filename, sep,row.names,nrows,
  2. read.csv() and read.csv2() also used
- 3. For excel files we use: read.xlsx(),read.slsx2() 
+ 3. To get whole content part of xml file we use xmlSApply() function
+ 4.xpathSApply(): to find content of specific tags  

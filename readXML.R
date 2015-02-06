@@ -4,4 +4,4 @@ fil<- xmlTreeParse(url,useInternal=TRUE)
 rootNode<-xmlRoot(fil)
 xmlName(rootNode)
 
-names(rootNode)
+names(rootNode)x
