@@ -1,4 +1,4 @@
-Lecture Notes:
+Lecture Notes: week1
 1. getwd() and setwd(): In R for working with directories
 2. setwd("./data") or setwd("../data") or setwd("/users/haroon...")
 3. file.exists("directoryname"): to check if directory exists
@@ -11,4 +11,7 @@ if url stands with https use "curl" as method name on mac
  1. read.table() function is used to read files, parameters passed filename, sep,row.names,nrows,
  2. read.csv() and read.csv2() also used
  3. To get whole content part of xml file we use xmlSApply() function
- 4.xpathSApply(): to find content of specific tags  
+ 4.xpathSApply(): to find content of specific tags 
+...........................
+1. FIND COLUMN NAME= which(colnames(filename)=="column name")
+      WEEK2
